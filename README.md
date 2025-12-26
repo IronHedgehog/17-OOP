@@ -1,6 +1,5 @@
 # QuizBrain – Python Quiz Game 🎮🐍
 
-[![Python Tests](https://github.com/YourUsername/Quiz-Game/actions/workflows/python-tests.yml/badge.svg)](https://github.com/YourUsername/Quiz-Game/actions/workflows/python-tests.yml)
 
 **QuizBrain** is a small Python True/False quiz game that demonstrates:
 
@@ -55,4 +54,3 @@ Quiz-Game/
 
 ---
 
-This README is **compact, professional, and friendly**, ready for GitHub and recruiters.
