@@ -1,43 +1,12 @@
 question_data = [
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "Gosho Aoyama Made This Series: (Detective Conan  Case Closed!)",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In Chobits, Hideki found Chii in his apartment.", "correct_answer": "False",
-     "incorrect_answers": ["True"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In the &quot;Toaru Kagaku no Railgun&quot; anime,  "
-                 "espers can only reach a maximum of level 6 in their abilities.",
-     "correct_answer": "False", "incorrect_answers": ["True"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "Clefairy was intended to be Ash&#039;s starting Pok&eacute;"
-                 "mon in the pilot episode of the cartoon.",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "The anime &quot;Lucky Star&quot; follows the story of one "
-                 "girl who is unaware she is God.",
-     "correct_answer": "False", "incorrect_answers": ["True"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In the &quot;Melancholy of Haruhi Suzumiya&quot; series,"
-                 " the narrator goes by the nickname Kyon.",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; "
-                 "and &quot;The Boy and the Beast&quot;.",
-     "correct_answer": "False", "incorrect_answers": ["True"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In the &quot;To Love-Ru&quot; series, Golden Darkness is sent to kill Lala Deviluke.",
-     "correct_answer": "False", "incorrect_answers": ["True"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "The name of the attack &quot;Kamehameha&quot; in Dragon Ball Z was named after a famous king of "
-                 "Hawaii.",
-     "correct_answer": "True", "incorrect_answers": ["False"]},
-    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
-     "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
-     "correct_answer": "False", "incorrect_answers": ["True"]}]
+    {"question": "Gosho Aoyama created the Detective Conan series.", "answer": "True"},
+    {"question": "In Chobits, Hideki found Chii in his apartment.", "answer": "False"},
+    {"question": "In Toaru Kagaku no Railgun, espers can reach level 7 or higher.", "answer": "False"},
+    {"question": "Clefairy was originally intended to be Ash's starting Pokémon.", "answer": "True"},
+    {"question": "The anime Lucky Star is about a girl who is secretly a god.", "answer": "False"},
+    {"question": "In The Melancholy of Haruhi Suzumiya, the narrator is nicknamed Kyon.", "answer": "True"},
+    {"question": "Studio Ghibli produced Wolf Children and The Boy and the Beast.", "answer": "False"},
+    {"question": "Ash's Pikachu refuses to enter a Pokéball.", "answer": "True"},
+    {"question": "In To Love-Ru, Golden Darkness is sent to kill Lala Deviluke.", "answer": "False"},
+    {"question": "In the 1988 film Akira, Tetsuo destroys Tokyo.", "answer": "True"}
+]
